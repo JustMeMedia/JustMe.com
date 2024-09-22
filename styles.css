@@ -63,6 +63,14 @@ section h2 {
     background-color: #3B3B50;
     border-radius: 8px;
 }
+.email-link {
+    color: #00BFFF;
+    text-decoration: none;
+}
+.email-link:hover {
+    color: #008CBA;
+    text-decoration: underline;
+}
 footer {
     background-color: #1C1C2D;
     color: #FFFFFF;
