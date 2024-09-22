@@ -21,23 +21,16 @@ header h1 {
     margin-bottom: 20px;
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.7);
 }
+.header-icon {
+    width: 50px; /* Adjust the size as needed */
+    height: auto;
+    margin-right: 15px; /* Space between the icon and text */
+    vertical-align: middle; /* Aligns the icon with the text */
+}
 header p {
     font-size: 20px;
     margin-bottom: 30px;
     text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
-}
-.cta-button {
-    background-color: #007BFF;
-    color: #FFFFFF;
-    padding: 15px 30px;
-    text-decoration: none;
-    border-radius: 5px;
-    font-size: 18px;
-    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
-    transition: background-color 0.3s ease;
-}
-.cta-button:hover {
-    background-color: #0056b3;
 }
 section {
     padding: 50px 20px;
