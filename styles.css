@@ -7,7 +7,7 @@ body {
 }
 header {
     background: url('header-background-video.jpg') no-repeat center center/cover;
-    height: 100vh;
+    height: 60vh; /* Shortened height */
     display: flex;
     justify-content: center;
     align-items: center;
