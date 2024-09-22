@@ -57,6 +57,12 @@ section h2 {
     margin-bottom: 20px;
     text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
 }
+.testimonial {
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #3B3B50;
+    border-radius: 8px;
+}
 footer {
     background-color: #1C1C2D;
     color: #FFFFFF;
